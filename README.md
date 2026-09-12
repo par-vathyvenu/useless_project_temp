@@ -67,6 +67,7 @@ For Software:
 
 
 # Diagrams
+```
 Application Start
 ↓
 Create Pet Window 
@@ -84,6 +85,8 @@ Handle User Interaction
 Random Behaviour
 ↓ 
 Repeat Until Application Closes
+```
+
 For Hardware:
 
 # Schematic & Circuit

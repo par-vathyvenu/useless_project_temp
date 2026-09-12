@@ -63,8 +63,8 @@ For Software:
 <img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 08 06 55" src="https://github.com/user-attachments/assets/3af4f453-5f2b-4ff5-972d-218812847192" />
 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 08 12 15 (1)" src="https://github.com/user-attachments/assets/724f92f0-18a2-4070-821c-80fa1654f612" />
+
 
 # Diagrams
 Application Start

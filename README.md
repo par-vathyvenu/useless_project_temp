@@ -2,84 +2,95 @@
 
 
 
-# [Project Name] 🎯
+# The_Poocha_Ser 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: 404 brain not found
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Parvathy venu - SREE narayana gurukulam college of engineering
+- Member 2: Parvathy K J - SREE narayana gurukulam college of engineering
+
 
 ### Project Description
-[2-3 lines about what your project does]
+A playful virtual desktop pet that roams around your screen, interacts with the user, and adds a fun, mischievous touch to the desktop.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Modern computer desktops are often too serious and static, lacking a playful companion that can entertain users and make everyday computer usage more engaging.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We created a mischievous virtual desktop pet that wanders around your screen, interacts with the user, and causes completely harmless chaos—because your desktop was apparently too peaceful. 😼
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+-Language: C#
+Framework: .NET Framework 4.8
+Libraries: Windows Forms, System.Drawing
+Tools: Visual Studio / VS Code, .NET CLI, Git
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- No additional hardware required
+Standard Windows PC/Laptop
+Keyboard and mouse
+Minimum 4 GB RAM recommended
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone <your-repository-link>
+cd AnnoyingCat
+dotnet build
+
+If the project is already downloaded:
+
+cd AnnoyingCat
+dotnet build
 
 # Run
-[commands]
+dotnet run
+
+The Annoying Cat will appear on the Windows desktop and start roaming around the screen
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 08 06 54" src="https://github.com/user-attachments/assets/74a9d878-5921-467c-b5db-2a0674b42ceb" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 08 06 55" src="https://github.com/user-attachments/assets/3af4f453-5f2b-4ff5-972d-218812847192" />
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
+Application Start
+↓
+Create Pet Window 
+↓
+Load Cat Sprite / Animation 
+↓
+Detect Desktop Boundaries
+↓
+Generate Movement
+↓
+Move Cat Around Screen
+↓
+Handle User Interaction
+↓ 
+Random Behaviour
+↓ 
+Repeat Until Application Closes
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+Not Applicable — Annoying Cat is a software-only project and does not require electronic hardware or circuitry.
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
+Not Applicable — No physical components are used in this project.
 ### Project Demo
 # Video
 [Add your demo video link here]
